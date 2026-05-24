@@ -1,0 +1,27 @@
+# ╔══════════════════════════════════════════════╗
+# ║  robots.txt — Neom Agro                      ║
+# ║  Domain  : https://sonali.pro.bd             ║
+# ║  Updated : 2026-05-24                        ║
+# ╚══════════════════════════════════════════════╝
+
+# ── সব bot-কে সম্পূর্ণ অনুমতি ──
+User-agent: *
+Allow: /
+
+# ── Googlebot বিশেষ অনুমতি ──
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 2
+
+# ── Bingbot ──
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2
+
+# ── ভবিষ্যতে private folder থাকলে disallow ──
+Disallow: /admin/
+Disallow: /private/
+Disallow: /draft/
+
+# ── Sitemap লোকেশন ──
+Sitemap: https://sonali.pro.bd/sitemap.xml

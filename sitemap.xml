@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+  xsi:schemaLocation="
+    http://www.sitemaps.org/schemas/sitemap/0.9
+    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+    http://www.google.com/schemas/sitemap-image/1.1
+    http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+
+  <!--
+    ╔══════════════════════════════════════════════════════════╗
+    ║  Neom Agro — sitemap.xml                                 ║
+    ║  Domain  : https://sonali.pro.bd                         ║
+    ║  Updated : 2026-05-24                                    ║
+    ║  Pages   : 11 URLs (1 root + 10 sections)                ║
+    ║  Submit  : https://search.google.com/search-console      ║
+    ╚══════════════════════════════════════════════════════════╝
+  -->
+
+  <!-- ── 01 · HOMEPAGE ── priority: 1.0 (সর্বোচ্চ) -->
+  <url>
+    <loc>https://sonali.pro.bd/</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- ── 02 · সোনালী পরিচিতি (About) ── priority: 0.9 -->
+  <url>
+    <loc>https://sonali.pro.bd/#about</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- ── 03 · ১০টি গুরুত্বপূর্ণ তথ্য (Facts) ── priority: 0.9 -->
+  <url>
+    <loc>https://sonali.pro.bd/#facts</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- ── 04 · পালন গাইড ১–৯০ দিন (Guide) ── priority: 0.95 -->
+  <url>
+    <loc>https://sonali.pro.bd/#guide</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- ── 05 · খাদ্য ব্যবস্থাপনা (Nutrition) ── priority: 0.85 -->
+  <url>
+    <loc>https://sonali.pro.bd/#nutrition</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- ── 06 · রোগবালাই ও প্রতিরোধ (Disease) ── priority: 0.85 -->
+  <url>
+    <loc>https://sonali.pro.bd/#disease</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- ── 07 · লাভ-লোকসান হিসাব (Economics) ── priority: 0.85 -->
+  <url>
+    <loc>https://sonali.pro.bd/#economics</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- ── 08 · রিসোর্স ও লিঙ্ক (Resources) ── priority: 0.80 -->
+  <url>
+    <loc>https://sonali.pro.bd/#resources</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- ── 09 · পোল্ট্রি ফার্ম FAQ ── priority: 0.90 -->
+  <url>
+    <loc>https://sonali.pro.bd/#faq</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- ── 10 · মুরগী পালন ও স্বাস্থ্য FAQ ── priority: 0.90 -->
+  <url>
+    <loc>https://sonali.pro.bd/#murgi-faq</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- ── 11 · সম্পর্কিত ব্লগ (Blogs) ── priority: 0.80 -->
+  <url>
+    <loc>https://sonali.pro.bd/#blogs</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>
