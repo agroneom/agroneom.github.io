@@ -1,0 +1,12 @@
+# robots.txt — Neom Agro
+# https://neomagro.github.io
+
+User-agent: *
+Allow: /
+
+# Disallow any future admin or private paths
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://neomagro.github.io/sitemap.xml
